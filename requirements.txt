@@ -1,0 +1,4 @@
+demucs
+soundfile
+numpy
+streamlit
