@@ -2,7 +2,7 @@
 
 A Python-based music source separation application that uses the **Demucs deep learning model** to separate vocals and instrumental components from mixed audio recordings. The project provides a user-friendly interface built with Streamlit for uploading audio, processing tracks, listening to separated stems, and downloading the results.
 
-**Live Demo:** [Audio Source Separation Web App]([YOUR-DEPLOYED-APP-URL](https://audio-source-separation-aiwwhxossvbqfzemhrggks.streamlit.app/))
+**Live Demo:** [Audio Source Separation Web App](https://audio-source-separation-aiwwhxossvbqfzemhrggks.streamlit.app/)
 
 ## ✨ Features
 
